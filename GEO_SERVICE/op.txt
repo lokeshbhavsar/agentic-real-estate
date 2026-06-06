@@ -1,0 +1,373 @@
+========== PROPERTY SCORES ==========
+
+connectivity_score: 20
+family_score: 100
+lifestyle_score: 100
+investment_score: 73.33
+
+========== NEARBY ANALYSIS ==========
+
+
+SHOPPING_MALL
+--------------------------------------------------
+Category: Lifestyle
+Count: 20
+
+Name: Goel Bros
+Rating: 4
+Distance: 1.37 km
+Address: near State Bank of Patiala, Sony Center, SCO 517, near State Bank of Patiala, Sector 70, Sahibzada Ajit Singh Nagar
+            
+
+Name: Meena Bazaar
+Rating: 4.1
+Distance: 1.55 km
+Address: 105, Mohali Stadium Road, Phase 3B-2, Sector 60, Sahibzada Ajit Singh Nagar
+            
+
+Name: Amartex Family Mart - Mohali
+Rating: 4.1
+Distance: 2.6 km
+Address: B-35, Gurudwara Sahib Road, Phase 3, Industrial Area, Sector 58, Sahibzada Ajit Singh Nagar
+            
+
+Name: Reliance SMART Superstore
+Rating: 4.2
+Distance: 4.38 km
+Address: Bestech Square Mall, Sector 66, Sahibzada Ajit Singh Nagar
+            
+
+Name: VR Punjab
+Rating: 4.4
+Distance: 4.8 km
+Address: NH-21, Chandigarh Kharar, Chandigarh Road, Sector 118, Sahibzada Ajit Singh Nagar
+            
+
+SCHOOL
+--------------------------------------------------
+Category: Education
+Count: 20
+
+Name: Delhi Public School
+Rating: None
+Distance: 4.5 km
+Address: lane 2360 Oposite, Delhi Public School, 2357/2, Sector 40C Road, Sector 40C, Chandigarh
+            
+
+Name: Step2Step Dance Studio | Best dance and fitness classes in Mohali
+Rating: 4.5
+Distance: 3.42 km
+Address: SCF 53 Second Floor, Phase 10, Sector 64, Sahibzada Ajit Singh Nagar
+            
+
+Name: Small Wonder School
+Rating: 4.9
+Distance: 1.35 km
+Address: behind Motor Market, Mohali Stadium Road, Phase 7, Sector 61, Sahibzada Ajit Singh Nagar
+            
+
+Name: Anee's School
+Rating: None
+Distance: 1.46 km
+Address: Site No. 1 Sector 69, Sahibzada Ajit Singh Nagar
+            
+
+Name: Saint Soldier International Convent School, Mohali
+Rating: None
+Distance: 1.65 km
+Address: 2005, Mohali Stadium Road, Sector 61, Sahibzada Ajit Singh Nagar
+            
+
+HOSPITAL
+--------------------------------------------------
+Category: Healthcare
+Count: 20
+
+Name: Fortis Hospital Mohali - Best Hospital in Mohali
+Rating: 4.7
+Distance: 2.33 km
+Address: Sector 62, Sahibzada Ajit Singh Nagar
+            
+
+Name: Max Super Specialty Hospital, Mohali
+Rating: 4.4
+Distance: 4.26 km
+Address: near Civil Hospital, Chandigarh Road, Phase 6, Mo, Chandigarh
+            
+
+Name: ACE Heart & Vascular Institute
+Rating: 4.7
+Distance: 1.47 km
+Address: Shivalik Hospital Premises, Sector 69, Sahibzada Ajit Singh Nagar
+            
+
+Name: Chawla Hospital
+Rating: 2.7
+Distance: 1.67 km
+Address: Kothi No. 1 & 2, 1, Sarovar Path, Phase 7, Sector 61, Sahibzada Ajit Singh Nagar
+            
+
+Name: UNIVERSAL INSTITUTE & CHARITABLE HOSPITAL
+Rating: 4.4
+Distance: 2.55 km
+Address: 6, Sector 68, Sahibzada Ajit Singh Nagar
+            
+
+PHARMACY
+--------------------------------------------------
+Category: Healthcare
+Count: 20
+
+Name: VIVA - Your Family Chemist
+Rating: 2.5
+Distance: 1.65 km
+Address: Booth No.- 16, Sector 61 / Phase 7, Sahibzada Ajit Singh Nagar
+            
+
+Name: Dispensary
+Rating: 3.6
+Distance: 1.66 km
+Address: 840, Mohali Stadium Road, Phase 3B-1, Sector 60, Sahibzada Ajit Singh Nagar
+            
+
+Name: Bansal Medical Store
+Rating: 4
+Distance: 1.53 km
+Address: Booth No-38, Phase 3B-2, Sector 60, Sahibzada Ajit Singh Nagar
+            
+
+Name: Apollo Pharmacy Mohali Phase 5
+Rating: 3.7
+Distance: 1.92 km
+Address: Booth No.7&8, Mohali Stadium Road, Phase 5, Sector 59, Sahibzada Ajit Singh Nagar
+            
+
+Name: Fortis Pharmacy
+Rating: 3.1
+Distance: 2.36 km
+Address: 791, Jail Road, Industrial Area Mohali Phase 9, Sahibzada Ajit Singh Nagar
+            
+
+PARK
+--------------------------------------------------
+Category: Environment
+Count: 20
+
+Name: Public Park
+Rating: 4.2
+Distance: 1.1 km
+Address: Phase-3B2, Sector 60, Sahibzada Ajit Singh Nagar
+            
+
+Name: Park 2
+Rating: 3.8
+Distance: 1.2 km
+Address: PP2C+983, Sector 70, Sahibzada Ajit Singh Nagar
+            
+
+Name: Park 2
+Rating: 4.3
+Distance: 1.41 km
+Address: MPR9+R2W, Sector 69, Sahibzada Ajit Singh Nagar
+            
+
+Name: Park 2
+Rating: 4
+Distance: 1.49 km
+Address: 72, Sector 78, Sahibzada Ajit Singh Nagar
+            
+
+Name: Online Visa Apply
+Rating: 3.7
+Distance: 1.57 km
+Address: S.C.O 7, Phase 3B2, Sector 60, Sahibzada Ajit Singh Nagar
+            
+
+GYM
+--------------------------------------------------
+Category: Fitness
+Count: 20
+
+Name: Regain Shapes
+Rating: 3
+Distance: 1.64 km
+Address: SCF 21, Mohali Stadium Road, Phase 3B2, Sector 60, Sahibzada Ajit Singh Nagar
+            
+
+Name: Step2Step Dance Studio | Best dance and fitness classes in Mohali
+Rating: 4.5
+Distance: 3.42 km
+Address: SCF 53 Second Floor, Phase 10, Sector 64, Sahibzada Ajit Singh Nagar
+            
+
+Name: ChetakPaČKers and movers
+Rating: 3.8
+Distance: 2.45 km
+Address: SCO 5, First Floor, Madanpur, Phase 2, Sahibzada Ajit Singh Nagar
+            
+
+Name: FITNESS GURU
+Rating: 4.1
+Distance: 0.23 km
+Address: 2nd & 3rd Floor, 1&2, Kargil Park Road, Sector 71, Sahibzada Ajit Singh Nagar
+            
+
+Name: DIVYA Yoga & Therapeutic Yoga Home Instructor Provider
+Rating: 4.9
+Distance: 0.24 km
+Address: D2, Neat Sri Hemkunt Public School, Plaza Market Road, Sector 71, Sahibzada Ajit Singh Nagar
+            
+
+SUPERMARKET
+--------------------------------------------------
+Category: Essentials
+Count: 20
+
+Name: Fresh Signature
+Rating: 4
+Distance: 3.5 km
+Address: Ground Floor, near JUSTDOGS, No. 61 To 66, Market Road, Phase 10, Sector 64, Sahibzada Ajit Singh Nagar
+            
+
+Name: Fresh Signature
+Rating: 4
+Distance: 1.76 km
+Address: Ground Flr, nr. The Brew Barrels, No. SCO-8, Mohali Stadium Road, Phase 5, Sector 59, Sahibzada Ajit Singh Nagar
+            
+
+Name: Vishal Mega Mart
+Rating: 4
+Distance: 1.77 km
+Address: SCO NO.3, Phase 5, Sahibzada Ajit Singh Nagar
+            
+
+Name: Sahil Super Market
+Rating: 4.4
+Distance: 3.2 km
+Address: S.C.O 15, Franco Hotel Road, Ajitgarh, Phase 1, Sector 55, Sahibzada Ajit Singh Nagar
+            
+
+Name: BEDI STORES
+Rating: 4.2
+Distance: 2.98 km
+Address: Sco 37, Sahibzada Ajit Singh Nagar
+            
+
+BUS_STATION
+--------------------------------------------------
+Category: Transport
+Count: 4
+
+Name: Mohali Phase
+Rating: 4.7
+Distance: 3.11 km
+Address: India
+            
+
+Name: Sec 43
+Rating: 1
+Distance: 3.61 km
+Address: India
+            
+
+Name: ISBT Sector-43
+Rating: 4.3
+Distance: 3.75 km
+Address: India
+            
+
+Name: Phase-11 (Mohali)
+Rating: 4
+Distance: 4.71 km
+Address: India
+            
+
+TRAIN_STATION
+--------------------------------------------------
+Category: Transport
+Count: 0
+
+SUBWAY_STATION
+--------------------------------------------------
+Category: Metro
+Count: 0
+
+AIRPORT
+--------------------------------------------------
+Category: Connectivity
+Count: 1
+
+Name: starlinex shipping solutions
+Rating: 4.6
+Distance: 3.08 km
+Address: 1st floor, Sco 34, Phase 1, Sahibzada Ajit Singh Nagar
+            
+
+BANK
+--------------------------------------------------
+Category: Financial
+Count: 20
+
+Name: IDBI Bank
+Rating: 3
+Distance: 1.51 km
+Address: SCF 58, Phase 3B-2, Sector 60, Sahibzada Ajit Singh Nagar
+            
+
+Name: Axis Bank Branch
+Rating: 3.5
+Distance: 1.8 km
+Address: SCF-113/ 114, Sector 61, Sahibzada Ajit Singh Nagar
+            
+
+Name: State Bank of India
+Rating: 3.7
+Distance: 1.65 km
+Address: Cellulosics Road, Phase 7, Industrial Area, Sector 73, Sahibzada Ajit Singh Nagar
+            
+
+Name: SBI Branch Kumbra
+Rating: 4.3
+Distance: 2.02 km
+Address: Kumbra Village, Sector 68, Sahibzada Ajit Singh Nagar
+            
+
+Name: YES BANK
+Rating: 3.2
+Distance: 1.29 km
+Address: SCO 538, Sector 70, Chandigarh
+            
+
+UNIVERSITY
+--------------------------------------------------
+Category: Education
+Count: 20
+
+Name: Chandigarh Group of Colleges (CGC) - CGC Landran
+Rating: 4.1
+Distance: 4.48 km
+Address: Sector 112, Landran
+            
+
+Name: Khalsa College Mohali Of Technology & Business Studies
+Rating: 4.3
+Distance: 2.8 km
+Address: near Petrol pump, Madanpur Road, near Petrol pump, Phase 3 A, Sector 53, Sahibzada Ajit Singh Nagar
+            
+
+Name: Excellence Technology
+Rating: 4.7
+Distance: 1.02 km
+Address: First Floor, C-133, 8, Phase-8, Industrial Area, Sahibzada Ajit Singh Nagar
+            
+
+Name: SAS Institute of Information Technology & Research
+Rating: 4
+Distance: 1.32 km
+Address: C-124, Phase-8, Industrial Area, Sahibzada Ajit Singh Nagar
+            
+
+Name: Board Of Ayurvedic And Unani Systems Of Medicine, Punjab
+Rating: 4.1
+Distance: 1.32 km
+Address: 2nd Floor, Punjab Medical Sikhya Bhawan, near Mayo Hospital, Sector 69, Sahibzada Ajit Singh Nagar
